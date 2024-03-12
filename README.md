@@ -1,4 +1,49 @@
-# Desafíos CrackMe y CrackMeEasy
+<div class="navbar">
+    [<a class="active" href="#english">English Version</a>]
+    &nbsp;&nbsp;
+    [<a href="#spanish">Español Version</a>]
+</div>
+
+<br><br>
+
+
+
+<h1 id="english">CrackMe and CrackMeEasy Challenges [ENG]</h1>
+## Description:
+Welcome to the CrackMe and CrackMeEasy challenges, exciting opportunities to test your computer security skills. This repository hosts Visual Studio 2019 projects featuring both the source code and executables for CrackMe.exe and CrackMeEasy.exe.
+
+## Contents:
+- **CrackMe.sln**: A complete Visual Studio solution that encapsulates the CrackMe project.
+- **CrackMe**: The heart of the CrackMe challenge, the Visual Studio project that contains the source code for CrackMe.exe.
+- **[CrackMe.exe](https://github.com/j0rd1s3rr4n0/CrackMe/releases/tag/v1.0.0)**: The challenging CrackMe executable, waiting to be decrypted.
+- **[CrackMeEasy.exe](https://github.com/j0rd1s3rr4n0/CrackMe/releases/tag/v1.0)**: The CrackMeEasy challenge, containing two hidden flags.
+- **README.md**: Your essential guide describing the challenges and providing clear instructions on how to participate.
+
+## CrackMe Challenge:
+CrackMe.exe is a mysterious program that protects its contents behind a password. Your mission is to uncover this password and gain access to the hidden treasure - you are free to use any method you deem necessary to solve this intriguing riddle!
+
+## CrackMeEasy Challenge:
+CrackMeEasy.exe contains two hidden flags that you must uncover. Explore the program's functionality and use your reverse engineering skills to decipher them.
+
+## Instructions:
+1. Clone or download this repository on your local machine.
+2. Run the corresponding file (CrackMe.exe or CrackMeEasy.exe) on your computer.
+3. Follow the hints provided in the challenge to try to crack the access password or find the hidden flags.
+4. Once you have discovered the password or flags, prepare a WriteUp documenting your experience and resolution process!
+5. [Complete the Form and Submit your WriteUp](https://forms.gle/Q1KH2hEuo6TrLRTCA)
+
+## Important Notes:
+- These challenges are designed for educational and entertainment purposes only.
+- The use of illegal or harmful techniques to solve the challenges is prohibited.
+- Remember to respect your country's laws and fair use policies while participating in this experience.
+
+## Ready for the Challenge?
+Get ready for an adventure of ingenuity and computer security skills! Clone this repository now and prove your skills by solving these CrackMe challenges - the community is eager to see your skills in action!
+
+
+----
+
+<h1 id="spanish">Desafíos CrackMe y CrackMeEasy [ESP]</h1>
 
 ## Descripción:
 Bienvenido a los desafíos CrackMe y CrackMeEasy, emocionantes oportunidades para poner a prueba tus habilidades en seguridad informática. Este repositorio alberga proyectos de Visual Studio 2019 que presentan tanto el código fuente como los ejecutables de CrackMe.exe y CrackMeEasy.exe.
